@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I am Daniel!
+I am a low-level programmer making drivers and other low-level operating system code.
 
-<!--
-**pagemap/pagemap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on things to make life easier
+- 🌱 I’m currently learning (Windows) networking
+- 👯 I’m looking to collaborate on low-level programming
+- 💬 Ask me about low-level stuff
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: none
 -->
+
+Languages/technologies: C, C++, Rust, (x86_64) Assembly
